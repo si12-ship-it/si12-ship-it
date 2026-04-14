@@ -34,9 +34,7 @@ Actively solving problems on Baekjoon.
 ---
 
 ## Snake
-💗 Pink Snake Contributions
-
-![snake gif](https://raw.githubusercontent.com/USERNAME/REPO/output/github-contribution-grid-snake.svg?color_snake=%23ff69b4)
+<img src="https://raw.githubusercontent.com/si12-ship-it/si12-ship-it/output/github-contribution-grid-snake.svg"/>
 ---
 
 <p align="center">
