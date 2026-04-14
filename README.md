@@ -1,46 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:f472b6&height=250&section=header&text=si12-ship-it&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Pink Snake</title>
+  <style>
+    body {
+      background: #0d0d0d;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+      color: white;
+      font-family: Arial;
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f472b6&size=28&center=true&vCenter=true&width=600&lines=C%23+Developer;Problem+Solver;Baekjoon+si12"/>
-</p>
+    img {
+      width: 90%;
+      max-width: 900px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px #ff69b4;
+    }
 
----
+    h1 {
+      color: #ff69b4;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
 
-## About Me
+<body>
 
-C# Developer focused on problem solving and algorithms.  
-Actively solving problems on Baekjoon.
+  <h1>🐍 Pink Snake GitHub</h1>
 
----
+  <img 
+    src="https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg"
+    alt="GitHub Snake Animation"
+  />
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-f472b6?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-d946ef?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-f472b6?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-</p>
-
----
-
-## Solved.ac
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=si12" />
-</p>
-
----
-
-## Snake
-
-<p align="center">
-  <img src="https://si12-ship-it.github.io/si12-ship-it/snake.svg"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:f472b6&height=150&section=footer"/>
-</p>
+</body>
+</html>
