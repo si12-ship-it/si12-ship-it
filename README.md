@@ -1,20 +1,74 @@
-<!-- NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:ff00ff&height=280&section=header&text=SI12-SHIP-IT&fontSize=55&fontColor=000000&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,100:ffc1e3&height=250&section=header&text=si12-ship-it&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- GLITCH TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00fff7&size=28&center=true&vCenter=true&width=750&speed=120&pause=800&lines=CYBERPUNK+DEVELOPER;C%23+SYSTEM+ENGINEER;ALGORITHM+HACKER;BAEKJOON+GRINDER"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=28&center=true&vCenter=true&width=600&lines=C%23+Developer;Problem+Solver;Baekjoon+Grinding;Always+Learning"/>
 </p>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+##  About Me
 
-```txt id="sys1"
-> USER: SI12-SHIP-IT  
-> ROLE: C# DEVELOPER  
-> STATUS: ONLINE  
-> FOCUS: ALGORITHMS / PROBLEM SOLVING  
-> MODE: CYBERPUNK NEON SYSTEM  
+C# Developer focused on problem solving and algorithmic thinking.  
+I enjoy solving problems on Baekjoon and building small projects to improve my skills.
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=si12-ship-it&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=si12-ship-it&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=si12-ship-it&theme=react-dark&bg_color=0d1117&color=ff9ecf&line=ffc1e3&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+##  Contribution Snake
+
+<p align="center">
+  <img src="https://si12-ship-it.github.io/si12-ship-it/snake.svg"/>
+</p>
+
+---
+
+##  Solved.ac
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=si12"/>
+</p>
+
+---
+
+##  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github&theme=light"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-ffb6c1?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+---
+
+## 🌸 Motto
+
+<p align="center">
+  Keep coding. Keep growing. 💗
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,100:ffc1e3&height=150&section=footer"/>
+</p>
