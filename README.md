@@ -8,7 +8,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 C# Developer focused on problem solving and algorithmic thinking.  
 I enjoy solving problems on Baekjoon and building small projects to improve my skills.
