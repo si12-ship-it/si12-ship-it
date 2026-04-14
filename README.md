@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:f472b6&height=250&section=header&text=si12-ship-it&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f78fb3,100:f8a5c2&height=250&section=header&text=si12-ship-it&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f472b6&size=28&center=true&vCenter=true&width=600&lines=C%23+Developer;Problem+Solver;Baekjoon+si12"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=f78fb3&size=28&center=true&vCenter=true&width=600&lines=C%23+Developer;Problem+Solver;Baekjoon+si12"/>
 </p>
 
 ---
@@ -18,9 +18,9 @@ Actively solving problems on Baekjoon.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-f472b6?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-d946ef?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-f472b6?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-f8a5c2?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-f78fb3?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-f8a5c2?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
 ---
@@ -42,5 +42,5 @@ Actively solving problems on Baekjoon.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:f472b6&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f78fb3,100:f8a5c2&height=150&section=footer"/>
 </p>
