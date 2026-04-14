@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,11 +20,6 @@ jobs:
           github_user_name: si12-ship-it
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=0d001a,330033,660066,990099,ff00ff
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist
 
       - uses: actions/upload-pages-artifact@v3
         with:
