@@ -21,7 +21,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=si12-ship-it&type=dark)](https://solved.ac/si12-ship-it)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=si12&type=dark)](https://solved.ac/si12)
 
 <br>
 
