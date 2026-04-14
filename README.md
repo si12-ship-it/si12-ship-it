@@ -36,7 +36,7 @@ Actively solving problems on Baekjoon.
 ## Snake
 
 <p align="center">
-  <img src="https://si12-ship-it.github.io/si12-ship-it/snake.svg"/>
+  <img src="https://si12-ship-it.github.io/si12-ship-it/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
