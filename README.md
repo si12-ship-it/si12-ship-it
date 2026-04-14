@@ -51,8 +51,7 @@ Continuously improving skills through Baekjoon and personal projects.
 ## Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/si12-ship-it/si12-ship-it/output/github-contribution-grid-snake.svg"/>
-</p>
+ <img src="https://si12-ship-it.github.io/si12-ship-it/github-contribution-grid-snake.svg"/>
 
 ---
 
