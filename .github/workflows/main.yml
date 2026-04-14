@@ -18,8 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: si12-ship-it
-          outputs: |
-            "dist/snake.svg?palette=github-dark&color_snake=%23ff69b4&color_dots=%231a001a,%23330033,%23660066,%23990099,%23ff69b4"
+          outputs: dist/snake.svg
 
       - uses: actions/upload-pages-artifact@v3
         with:
