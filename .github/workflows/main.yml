@@ -1,2 +1,19 @@
-outputs: |
-  dist/snake.svg?palette=github-dark&color_snake=#ff69b4&color_dots=#1a001a,#330033,#660066,#990099,#ff69b4
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: si12-ship-it
+          outputs: dist/snake.svg
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
