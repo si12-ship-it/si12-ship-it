@@ -8,14 +8,14 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 C# Developer focused on problem solving and algorithmic thinking.  
 I enjoy solving problems on Baekjoon and building small projects to improve my skills.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=si12-ship-it&show_icons=true&theme=rose_pine&hide_border=true"/>
@@ -32,7 +32,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://si12-ship-it.github.io/si12-ship-it/snake.svg"/>
@@ -40,7 +40,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 🧠 Solved.ac
+##  Solved.ac
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=si12"/>
@@ -48,7 +48,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github&theme=light"/>
