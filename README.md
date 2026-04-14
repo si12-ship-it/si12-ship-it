@@ -1,42 +1,30 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <title>Pink Snake</title>
-  <style>
-    body {
-      background: #0d0d0d;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      flex-direction: column;
-      color: white;
-      font-family: Arial;
-    }
+name: Generate Snake Animation
 
-    img {
-      width: 90%;
-      max-width: 900px;
-      border-radius: 20px;
-      box-shadow: 0 0 20px #ff69b4;
-    }
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-    h1 {
-      color: #ff69b4;
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-<body>
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-  <h1>🐍 Pink Snake GitHub</h1>
+      - name: Generate pink snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ffb6c1
 
-  <img 
-    src="https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg"
-    alt="GitHub Snake Animation"
-  />
-
-</body>
-</html>
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
