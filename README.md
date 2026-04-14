@@ -15,7 +15,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=si12-ship-it&show_icons=true&theme=rose_pine&hide_border=true"/>
@@ -32,16 +32,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-##  3D Pink Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/si12-ship-it/si12-ship-it/blob/output-3d/profile-night-rainbow.svg"
-  style="filter: hue-rotate(320deg) saturate(2.5); border-radius: 12px;"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://si12-ship-it.github.io/si12-ship-it/snake.svg"/>
@@ -57,6 +48,18 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
+##  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github&theme=light"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-ffb6c1?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+---
 
 ## 🌸 Motto
 
