@@ -1,30 +1,30 @@
 <div align="center">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsi12-ship-it&count_bg=%23FF69B4&title_bg=%23FFB7C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![header](https://capsule-render.vercel.app/render?type=prism&color=FF1493&height=150&section=header&text=si12-ship-it&fontSize=50&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/render?type=waving&color=FFD1DC&height=180&section=header&text=Welcome%20to%20my%20Space&fontSize=50&fontColor=FFB7C5" />
 
 <br>
 
-![C#](https://img.shields.io/badge/C%23-%23FF1493.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23FF69B4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23E75480.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<img src="https://img.shields.io/badge/C%23-%23FFB7C5.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-%23FFD1DC.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-%23E7CBCB.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 
 <br>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=si12-ship-it&show_icons=true&theme=rose&hide_border=true&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&bg_color=1F1F1F)
+<img src="https://github-readme-stats.vercel.app/api?username=si12-ship-it&show_icons=true&theme=nord&hide_border=true&title_color=FFB7C5&icon_color=FFB7C5&text_color=FFFFFF&bg_color=1E1E1E" />
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si12-ship-it&layout=compact&theme=rose&hide_border=true&title_color=FF1493&text_color=FFFFFF&bg_color=1F1F1F)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=si12-ship-it&layout=compact&theme=nord&hide_border=true&title_color=FFB7C5&text_color=FFFFFF&bg_color=1E1E1E" />
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=si12&type=dark)](https://solved.ac/si12)
+<a href="https://solved.ac/si12">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=si12&type=dark" />
+</a>
 
 <br>
 
-![footer](https://capsule-render.vercel.app/render?type=waving&color=FF1493&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/render?type=waving&color=FFB7C5&height=120&section=footer" />
 
 </div>
