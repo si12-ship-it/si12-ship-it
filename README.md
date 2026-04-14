@@ -24,7 +24,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=si12-ship-it&theme=react-dark&bg_color=0d1117&color=ff9ecf&line=ffc1e3&point=ffffff&hide_border=true"/>
@@ -32,7 +32,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 🌸 3D Pink Contribution Graph
+##  3D Pink Contribution Graph
 
 <p align="center">
   <img src="https://github.com/si12-ship-it/si12-ship-it/blob/output-3d/profile-night-rainbow.svg"
@@ -49,7 +49,7 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## 🧠 Solved.ac
+##  Solved.ac
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=si12"/>
@@ -57,18 +57,6 @@ I enjoy solving problems on Baekjoon and building small projects to improve my s
 
 ---
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github&theme=light"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-ffb6c1?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
----
 
 ## 🌸 Motto
 
