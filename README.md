@@ -48,15 +48,12 @@ Continuously improving skills through Baekjoon and personal projects.
 
 ---
 
-## Contribution Snake Animation
-<img src="https://si12-ship-it.github.io/si12-ship-it/github-contribution-grid-snake-dark.svg"/>
-
-## Goals
-
-- Master advanced algorithms
-- Build high-quality C# projects
-- Maintain consistent problem solving
-
+## Contribution Snake Animation<p align="center">
+  <img 
+    src="https://si12-ship-it.github.io/si12-ship-it/github-contribution-grid-snake.svg"
+    style="filter: hue-rotate(300deg) saturate(5) brightness(1.5) drop-shadow(0 0 10px #ff00ff) drop-shadow(0 0 20px #ff00ff);"
+  />
+</p>
 ---
 
 ## Motto
